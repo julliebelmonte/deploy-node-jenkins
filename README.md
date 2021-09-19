@@ -1,2 +1,2 @@
 # deploy-node-jenkins
-Turma Luiza<labs> | Google Cloud Platform 
+Turma Luiza <labs> | Google Cloud Platform 
